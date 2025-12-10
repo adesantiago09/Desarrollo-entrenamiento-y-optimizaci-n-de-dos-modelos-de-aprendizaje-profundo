@@ -53,15 +53,4 @@ El objetivo general es **desarrollar, entrenar y optimizar** ambos modelos, comp
     de cada modelo.
   - Registro de experimentos en CSV con hiperparámetros y métricas.
 
----
 
-## 🛠 Instalación y ejecución
-
-### 1️⃣ Crear entorno virtual (opcional, recomendado)
-
-```bash
-python -m venv venv
-# Linux / MacOS
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
